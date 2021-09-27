@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         sharedPreferences = this.getSharedPreferences("package com.example.sharedprefalertmenu", Context.MODE_PRIVATE);
         text = (TextView) findViewById(R.id.text);
 
-        new AlertDialog.Builder(this).setTitle("Choose your Language").setMessage(
+        new AlertDialog.Builder(this).setIcon(android.R.drawable.ic_dialog_alert).setTitle("Choose your Language").setMessage(
                 "Which Language would you prefer to communicate in?"
         ).setPositiveButton("English", new DialogInterface.OnClickListener() {
             @Override
