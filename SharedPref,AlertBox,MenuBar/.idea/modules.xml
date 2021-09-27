@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedPref,Alert,Menu.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedPref,Alert,Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SharedPref,Alert,Menu.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SharedPref,Alert,Menu.app.iml" />
+    </modules>
+  </component>
+</project>
