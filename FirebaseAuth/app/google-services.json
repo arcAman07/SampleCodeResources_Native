@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564365752210",
+    "project_id": "chat-app-3d343",
+    "storage_bucket": "chat-app-3d343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564365752210:android:ad9a43fea66def2940b34b",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564365752210-7urptr2ku1s2hrpnodr9kh8n450hqk4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbKuEqMR8ljj3tjS-hpyCaP3GxMarmFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564365752210-7urptr2ku1s2hrpnodr9kh8n450hqk4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
